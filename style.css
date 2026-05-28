@@ -1,0 +1,15 @@
+		body{
+			background-color: #292730;
+			color: #DCDCDC;
+			-webkit-text-stroke: 0.5px #121310;
+		}
+		div{ /* OFC and WTT mogged by [[ REDACTED ]] */
+			background-color: #0700FF;
+			padding: 2px;
+			border: #E5E5E5 double 1px;
+			justify-content: center;
+			align-items: center;
+		}
+		a{
+			color: #89FFDA;
+		}
